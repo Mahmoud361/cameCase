@@ -1,5 +1,5 @@
 
-<?php// test github after edite
+<?php
     if (isset($_POST['submit'])){
         $fristName = $_POST['fristName'];
         $lastName = $_POST['lastName'];
@@ -15,7 +15,6 @@
         else
             header("location: index.php");
     }
-
 ?>
 <html>
 
