@@ -1,4 +1,5 @@
-<?php
+
+<?php// test github after edite
     if (isset($_POST['submit'])){
         $fristName = $_POST['fristName'];
         $lastName = $_POST['lastName'];
